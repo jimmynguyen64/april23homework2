@@ -1,0 +1,68 @@
+.main {
+    margin: 0 auto;
+    width: 100%;
+}
+
+p{color: azure;
+    font-family: 'Rubik', sans-serif;
+    width: 795px;
+    height: 500px;
+    margin-left: 25%;
+}
+
+h2{
+    color: azure;
+    border-bottom: 2px solid azure;
+}
+
+h1{
+    font-size:3em;
+    margin-left: 90px;
+    color: azure;
+}
+
+.nav-item{
+    font-size: 20px;
+    margin-right: 100px;
+}
+
+img{
+    margin-left: 0 auto;
+}
+
+.container{
+    padding: 10px;
+    background: rgb(31, 30, 30);
+    margin: 40px auto;
+    height: 500px;
+    width: 100%;
+}
+
+footer{
+    color: azure;
+    margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+      background-color: #333;
+  
+    }
+  
+    .wrapper {
+      width: 100%;
+      padding: ;
+    }
+
+    p{color: azure;
+        font-family: 'Rubik', sans-serif;
+        width: 400px;
+        height: 500px;
+        margin: 0 auto;
+        font-size: 20px;
+    }
+
+    img{
+        margin: 0 auto;
+        image-orientation: 20px;
+    }
